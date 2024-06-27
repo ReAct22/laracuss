@@ -42,6 +42,20 @@ and if you chouse private your project just can you see or if you give your link
 - after your success a remote github in your project you can add you source code to repository with sintaks like this:
 ## git add .
 - after git add cou can write code "git commit -m "message" " for to the next stap before push your project
-- 
+- after that you can push your source code with "git push" for your source code to publish in the repository
+
+-----------  Installation bootstrap using npm  -----------
+- open website bootrtrap
+- click button documentation
+- arrow you cursor to install bootstrap using npm
+
+-----------  preper file scss in project laravel  -----------
+- find folder resource in your project
+- create new folder scss inside folder resource
+- and in the into folder scss a create new file app.scss such as main file
+- after a create file app.scss you must be a create new folder into folder scc such as pages
+- and 1 folder again such as partials
+- and in the into folder partials we can a create a new file such as utility.scss
+
 
 
