@@ -1,0 +1,47 @@
+----------- tools for development Laravel -----------
+- Composer
+- Laragon
+- Git
+
+----------- Settingg git project Laravel -----------
+- open terminal in laragon
+- set user name for git you can write code like : ## git config --global user.name "ReAct22" ##
+- set email for git you can write code like : ## git config --global user.email "andrea@email.com" ##
+
+----------- Installation and see structur folder for project Laravel -----------
+- in your browser, you can open website laravel.com and you can see a documentation for install laravel
+- in documentation you can scroll to below and you can find title like # YOU FIRST LARAVEL PROJECT
+- and you can following installation for install project laravel
+- or you can follow code below in here:
+## composer create-project laravel/laravel example-app ##
+open project you can write your terminal code like : code laracuss
+
+----------- first time run project Laravel -----------
+- open terminal
+- open project in terminal using cd like : cd laracuss
+- after that you can write code like this for run project laravel
+## php artisan serve ##
+
+----------- recommanded extension for project Laravel -----------
+- laravel snippets
+- laravel blade snippets
+- auto complate tag
+
+-----------  a simpel repository in github  -----------
+- open github.com
+- if you have a account you can login but if you don't have a account you can click button register for create a new account
+- after you success login click button a new repository for a create new repository
+- in the repository name, you can insert your project name like "laracuss" or anything
+- in the column descrption is optional you can insert anythin or not
+- and in secure you repository you can choese public or private, if you chouse public other people can see you project
+and if you chouse private your project just can you see or if you give your link project
+- before your push project to repository you can inialisasi you project by way of write code like below in here:
+## git init ##
+- after your success inialisation you project you can remote repo by way of write code like below in here:
+## git remote add origin http://you_link_repo
+- after your success a remote github in your project you can add you source code to repository with sintaks like this:
+## git add .
+- after git add cou can write code "git commit -m "message" " for to the next stap before push your project
+- 
+
+
